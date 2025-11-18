@@ -2,18 +2,24 @@
 
 # INTRODUCTION
 Climate Guardians is a digital platform designed to promote environmental awareness and responsible habits among school students. It combines education, gamification, and reward-based motivation to create a fun and meaningful experience.
+
 The website achieves several goals:
-•	Educates students about climate change impacts.
-• Encourages eco-friendly habits through a point-based system.
-• Students can log various eco-actions:
-   •	♻️ Recycled Waste (+5)
-   •	💡 Saved Energy (+5)
-   •	🚍 Used Public Transport (+10)
-   •	💧 Saved Water (+10)
-   •	❌ Mistake / Harmful Action (–1)
-•	Allows students to track their progress and stay motivated.
-•	Gives teachers administrative control to verify and award points.
-•	Creates a sustainable culture within the school community.
+* Educates students about climate change impacts.
+* Encourages eco-friendly habits through a point-based system.
+* Students can log various eco-actions:
+  
+| Activity  | Points |
+| ------------- | ------------- |
+| Recycled Waste  | +5 |
+| 💡 Saved Energy | +5  |
+| 🚍 Used Public Transport | +5  |
+| 💡 Saved Water | +5  |
+| 💡 Saved Energy | +5  |
+| ❌ Mistake / Harmful Action | +5  |
+
+*	Allows students to track their progress and stay motivated.
+*	Gives teachers administrative control to verify and award points.
+*	Creates a sustainable culture within the school community.
 With its clean interface, simple navigation, and interactive design, the Climate Guardians platform serves as a powerful educational tool to inspire the next generation of environmental stewards.
 PROBLEM STATEMENT
 
@@ -39,11 +45,12 @@ The Climate Guardians project aims to:
 
 The platform is a modern digital system, built using:
 
-<ins>Frontend Technologies : </ins>
+Frontend Technologies : 
+```
 HTML5 – Structure and layout of webpages.
 CSS3 – Styling, colors, typography, and responsive design.
 JavaScript – Interactivity, form handling, and dynamic updates.
-
+```
 <ins>Backend / Server Technologies :</ins>
 Python / Flask 
 Used for backend logic, user handling, and dashboards.
