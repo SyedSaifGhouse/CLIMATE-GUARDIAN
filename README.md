@@ -1,18 +1,18 @@
-# CLIMATE-GUARDIAN
+# CLIMATE GUARDIAN
+ 
 CLIMATE GUARDIANS -  PROJECT REPORT
 
-INTRODUCTION
+# INTRODUCTION
 Climate Guardians is a digital platform designed to promote environmental awareness and responsible habits among school students. It combines education, gamification, and reward-based motivation to create a fun and meaningful experience.
 The website achieves several goals:
 •	Educates students about climate change impacts.
-•	Encourages eco-friendly habits through a point-based system.
-Students can log various eco-actions:
-•	♻️ Recycled Waste (+5)
-•	💡 Saved Energy (+5)
-•	🚍 Used Public Transport (+10)
-•	💧 Saved Water (+10)
-•	❌ Mistake / Harmful Action (–1)
-
+• Encourages eco-friendly habits through a point-based system.
+• Students can log various eco-actions:
+   •	♻️ Recycled Waste (+5)
+   •	💡 Saved Energy (+5)
+   •	🚍 Used Public Transport (+10)
+   •	💧 Saved Water (+10)
+   •	❌ Mistake / Harmful Action (–1)
 •	Allows students to track their progress and stay motivated.
 •	Gives teachers administrative control to verify and award points.
 •	Creates a sustainable culture within the school community.
@@ -26,7 +26,7 @@ Climate change has become one of the most critical global issues, and creating e
 
 
 
-OBJECTIVE
+# OBJECTIVE
 
 The Climate Guardians project aims to:
 1. Educate students about climate change, environmental impacts, and sustainability.
@@ -38,20 +38,20 @@ The Climate Guardians project aims to:
 
 
 
-Tools and Technologies Used
+<ins> TOOLS AND TECHNOLOGIES USED </ins>
 
 The platform is a modern digital system, built using:
 
-Frontend Technologies
+Frontend Technologies : 
 HTML5 – Structure and layout of webpages.
 CSS3 – Styling, colors, typography, and responsive design.
 JavaScript – Interactivity, form handling, and dynamic updates.
 
-Backend / Server Technologies
+Backend / Server Technologies :
 Python / Flask 
 Used for backend logic, user handling, and dashboards.
 
-Database
+Database : 
 My SQLite
 Used for storing student profiles, point logs, and admin data.
 
