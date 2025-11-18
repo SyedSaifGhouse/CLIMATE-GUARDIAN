@@ -1,6 +1,4 @@
 # CLIMATE GUARDIAN
- 
-CLIMATE GUARDIANS -  PROJECT REPORT
 
 # INTRODUCTION
 Climate Guardians is a digital platform designed to promote environmental awareness and responsible habits among school students. It combines education, gamification, and reward-based motivation to create a fun and meaningful experience.
@@ -27,7 +25,6 @@ Climate change has become one of the most critical global issues, and creating e
 
 
 # OBJECTIVE
-
 The Climate Guardians project aims to:
 1. Educate students about climate change, environmental impacts, and sustainability.
 2. Motivate students to adopt eco-friendly habits through a point-based rewards system.
@@ -38,29 +35,29 @@ The Climate Guardians project aims to:
 
 
 
-<ins> TOOLS AND TECHNOLOGIES USED </ins>
+## <ins> TOOLS AND TECHNOLOGIES USED </ins>
 
 The platform is a modern digital system, built using:
 
-Frontend Technologies : 
+# Frontend Technologies : 
 HTML5 – Structure and layout of webpages.
 CSS3 – Styling, colors, typography, and responsive design.
 JavaScript – Interactivity, form handling, and dynamic updates.
 
-Backend / Server Technologies :
+# Backend / Server Technologies :
 Python / Flask 
 Used for backend logic, user handling, and dashboards.
 
-Database : 
+# Database : 
 My SQLite
 Used for storing student profiles, point logs, and admin data.
 
-Development Tools
+# Development Tools
 VS Code
 Browser developer tools
 
 
-PROPOSED SOLUTION
+## <ins>PROPOSED SOLUTION</ins>
 Climate Guardians is a web-based digital eco-awareness and reward platform designed for school students.
 The solution integrates education, gamification, and administrative tracking to promote environmental responsibility.
 Key Features of the Solution : 
@@ -70,12 +67,12 @@ A dedicated Home/Impact section displays information about climate change impact
 
 b) Green Points System
 Students can log eco-friendly actions, each associated with a specific score:
-Eco Action	Points
-Recycled Waste	+5
-Saved Energy	+5
-Used Public Transport	+10
-Saved Water	+10
-Harmful/Mistake Action	–1
+Eco Action	            Points
+Recycled Waste  	        +5
+Saved Energy	            +5
+Used Public Transport	   +10
+Saved Water	             +10
+Harmful/Mistake Action 	 –1
 This encourages consistent positive behaviour with instant feedback.
 
 c) Student Dashboard
@@ -94,17 +91,12 @@ Introduces friendly competition among students.
 Encourages long-term behaviour change.
 
 
-
-
-
-
-
+## OUTPUT WINDOWS
  
-Home / Impacts Section
+ <img width="1920" height="1020" alt="Screenshot 2025-11-17 122958" src="https://github.com/user-attachments/assets/d4eefda7-0469-4f1a-a6a8-baf6139dd1df" />
+                                                               Home / Impacts Section
 
- This screen displays educational content about climate change and its impacts. 
-It includes visual illustrations and explanations of extreme weather, drought, ocean acidification, and biodiversity loss.
- The page aims to raise awareness among students about environmental challenges and the importance of sustainability.
+This screen displays educational content about climate change and its impacts. It includes visual illustrations and explanations of extreme weather, drought, ocean acidification, and biodiversity loss.The page aims to raise awareness among students about environmental challenges and the importance of sustainability.
 
 
 
