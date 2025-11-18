@@ -94,7 +94,7 @@ Encourages long-term behaviour change.
 ## OUTPUT WINDOWS
  
  <img width="1920" height="1020" alt="Screenshot 2025-11-17 122958" src="https://github.com/user-attachments/assets/d4eefda7-0469-4f1a-a6a8-baf6139dd1df" />
-<center>Home / Impacts Section</center>
+<center> Home / Impacts Section </center>
 This screen displays educational content about climate change and its impacts. It includes visual illustrations and explanations of extreme weather, drought, ocean acidification, and biodiversity loss.The page aims to raise awareness among students about environmental challenges and the importance of sustainability.
 
 
