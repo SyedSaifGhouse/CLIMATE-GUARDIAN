@@ -39,20 +39,20 @@ The Climate Guardians project aims to:
 
 The platform is a modern digital system, built using:
 
-# Frontend Technologies : 
+<ins>Frontend Technologies : </ins>
 HTML5 – Structure and layout of webpages.
 CSS3 – Styling, colors, typography, and responsive design.
 JavaScript – Interactivity, form handling, and dynamic updates.
 
-# Backend / Server Technologies :
+<ins>Backend / Server Technologies :</ins>
 Python / Flask 
 Used for backend logic, user handling, and dashboards.
 
-# Database : 
+<ins>Database : </ins>
 My SQLite
 Used for storing student profiles, point logs, and admin data.
 
-# Development Tools
+<ins>Development Tools</ins>
 VS Code
 Browser developer tools
 
@@ -67,12 +67,12 @@ A dedicated Home/Impact section displays information about climate change impact
 
 b) Green Points System
 Students can log eco-friendly actions, each associated with a specific score:
-Eco Action	            Points
-Recycled Waste  	        +5
+Eco Action	              Points
+Recycled Waste  	         +5
 Saved Energy	            +5
 Used Public Transport	   +10
-Saved Water	             +10
-Harmful/Mistake Action 	 –1
+Saved Water	               +10
+Harmful/Mistake Action 	   –1
 This encourages consistent positive behaviour with instant feedback.
 
 c) Student Dashboard
@@ -94,31 +94,23 @@ Encourages long-term behaviour change.
 ## OUTPUT WINDOWS
  
  <img width="1920" height="1020" alt="Screenshot 2025-11-17 122958" src="https://github.com/user-attachments/assets/d4eefda7-0469-4f1a-a6a8-baf6139dd1df" />
-                                                               Home / Impacts Section
-
+<center>Home / Impacts Section</center>
 This screen displays educational content about climate change and its impacts. It includes visual illustrations and explanations of extreme weather, drought, ocean acidification, and biodiversity loss.The page aims to raise awareness among students about environmental challenges and the importance of sustainability.
 
 
 
- 
-Login/Registration Screen
-
-The login page allows students to enter their unique ID and password to access their personalized Green Points wallet.
- It also provides an option to register a new student account. 
-The interface is clean and simple to ensure ease of use for school children.
+ <img width="1920" height="1020" alt="Screenshot 2025-11-17 123018" src="https://github.com/user-attachments/assets/ccce25b3-9a0b-4560-9c3a-43b240c4c494" />
+<center>Login/Registration Screen</center>
+The login page allows students to enter their unique ID and password to access their personalized Green Points wallet.It also provides an option to register a new student account.The interface is clean and simple to ensure ease of use for school children.
 
 
 
 
 
 
- 
-Student Dashboard
-
-After logging in, students are greeted with a personalized welcome message and a display of their total Green Points. 
-They can log eco-friendly actions such as recycling waste, saving energy, using public transport, and conserving water.
- Each action adds a specific number of points, while mistakes reduce points.
- This encourages positive behavioural changes.
+ <img width="1920" height="1020" alt="Screenshot 2025-11-17 123246" src="https://github.com/user-attachments/assets/ba92167a-4df3-4343-8117-021eb69ba884" />
+<center>Student Dashboard</center>
+After logging in, students are greeted with a personalized welcome message and a display of their total Green Points. They can log eco-friendly actions such as recycling waste, saving energy, using public transport, and conserving water. Each action adds a specific number of points, while mistakes reduce points. This encourages positive behavioural changes.
 
 
 
